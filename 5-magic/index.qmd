@@ -1,0 +1,112 @@
+---
+title: <span style="color:white">The Invisible Hand of Greatness</span>
+subtitle: "How Magic Johnson proved that leadership is about what you give, not what you take"
+
+author: 
+- name: "King Matayo"
+  email: kingmatayo.thefirst@gmail.com
+date: 12/16/2024
+
+title-block-banner: ./assets/magic.jpg
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+```{r warning=FALSE, message=FALSE}
+
+# Load required libraries
+library(tidyverse)
+library(BasketballAnalyzeR)
+library(nbastatR)
+library(ggimage)
+library(cropcircles)
+library(ggtext)
+library(glue)
+library(janitor)
+library(htmltools)
+library(gganimate)
+library(viridis)
+
+
+# Source functions
+source(file="./R/00-functions.R")
+
+
+```
+
+# The Magical Rookie
+
+In the spring of 1980, a 20-year-old rookie stepped onto the court for Game 6 of the NBA Finals. The Los Angeles Lakers’ towering star, Kareem Abdul-Jabbar, was injured, and everyone assumed that without him, the team’s championship hopes were gone. The rookie—listed at 6’9” and known for playing point guard—was asked to play center.
+
+What happened next is the stuff of legend.
+
+Magic Johnson didn’t just fill in; he flourished. He scored 42 points, grabbed 15 rebounds, and dished out 7 assists. The Lakers won the championship that night, but it wasn’t Magic’s stats that stood out. It was something harder to quantify: the calm confidence he inspired in his teammates. The belief that, together, they could handle anything.
+
+This wasn’t a one-off performance. It was a window into Magic’s entire approach to basketball—and life. Leadership, he showed us, isn’t about being the loudest or most dominant. It’s about creating space for others to thrive. It’s about knowing when to shine and when to let someone else take the shot.
+
+# The Smile That Changed a Team
+
+Leadership doesn’t always come from authority. Sometimes it comes from a smile.
+
+Magic Johnson’s smile wasn’t just a trademark—it was a strategy. He played with a joy that was contagious, a confidence that spread like wildfire. A teammate misses a shot? Magic is the first to slap them on the back and tell them to shake it off. The team is down by 10? Magic is the one rallying the huddle, convincing everyone that they’re one good run away from taking control.
+
+In 1980, the Lakers were a talented but inconsistent team. Kareem was their anchor, but the spark of optimism and cohesion came from their rookie point guard. Magic’s charisma wasn’t a distraction; it was a glue that held the team together when things got tough.
+
+He led with positivity, not power, and his teammates fed off that energy. Years later, players who shared the court with him wouldn’t just talk about his skill—they’d talk about how much fun he made the game.
+
+# Making the Team Shine
+
+Great leaders are multipliers. They take what’s already good and make it extraordinary.
+
+Magic Johnson’s genius wasn’t just his talent. It was his ability to amplify the talent around him. He wasn’t just looking for the open man—he was creating opportunities that no one else could see.
+
+Take his partnership with Kareem Abdul-Jabbar. Kareem was already one of the greatest centers in history. But with Magic on the floor, feeding him perfect passes at just the right time, Kareem became unstoppable. Magic wasn’t trying to overshadow Kareem; he was trying to make him even greater.
+
+But it wasn’t just about stars. Role players flourished under Magic’s leadership. Michael Cooper, James Worthy, and even players further down the roster found themselves part of plays that made them look like superstars.
+
+Magic understood a simple truth: success is more satisfying when everyone gets a piece of it.
+
+*Analysis Placeholder: A breakdown of Magic’s assist-to-turnover ratio shows just how effectively he created opportunities while minimizing risks for his team.*
+
+# When the Moment Called, He Delivered
+
+Pressure doesn’t build character; it reveals it.
+
+In that iconic 1980 Finals game, Magic didn’t have the luxury of sticking to what he knew best. His team needed him to play a position he wasn’t trained for, against players bigger and stronger than him.
+
+Instead of resisting, he embraced the challenge. Magic didn’t just perform well—he turned in one of the greatest performances in NBA history. But here’s the thing: he didn’t win that game by trying to be someone he wasn’t. Even playing as a center, he remained the same selfless player who prioritized his team over himself.
+
+*Analysis Placeholder: A comparison of Magic’s performance as a guard versus that iconic game as a center highlights his versatility and team-first mindset.*
+
+# The Invisible Hand of Leadership
+
+Magic Johnson wasn’t perfect. He made mistakes, turned the ball over, and had off nights like anyone else. But his leadership endured because it wasn’t about being perfect—it was about being consistent.
+
+The Lakers weren’t just better when Magic was on the floor. They were more cohesive, more confident, and more resilient.
+
+The numbers back this up:
+
+*Analysis Placeholder: The Lakers’ offensive efficiency soared with Magic in the lineup, underscoring his impact as a leader and playmaker.*
+
+But Magic’s real legacy isn’t just in stats or trophies. It’s in the trust he built, the confidence he inspired, and the joy he brought to the game. His career is a masterclass in servant leadership—a lesson that the greatest thing you can achieve is helping others achieve.
+
+Leadership isn’t about demanding loyalty. It’s about earning it. It’s not about taking the most shots; it’s about creating the best ones.
+
+Magic Johnson didn’t just play basketball. He played for his team. And in doing so, he taught us that greatness isn’t about being the best—it’s about making everyone else better.
+
+------------------------------------------------------------------------
+
+# Sources:
+
+To Be Included...

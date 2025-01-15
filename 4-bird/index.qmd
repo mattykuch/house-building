@@ -1,0 +1,124 @@
+---
+title: <span style="color:white">The Fast Mind That Saw It All</span>
+subtitle: "How Larry Bird outsmarted a game built for giants"
+
+author: 
+- name: "King Matayo"
+  email: kingmatayo.thefirst@gmail.com
+date: 12/16/2024
+
+title-block-banner: ./assets/bird.jpg
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+```{r warning=FALSE, message=FALSE}
+
+# Load required libraries
+library(tidyverse)
+library(BasketballAnalyzeR)
+library(nbastatR)
+library(ggimage)
+library(cropcircles)
+library(ggtext)
+library(glue)
+library(janitor)
+library(htmltools)
+library(gganimate)
+library(viridis)
+
+
+# Source functions
+source(file="./R/00-functions.R")
+
+
+```
+
+# Playing Chess
+
+Basketball loves its superlatives. The fastest. The strongest. The most athletic. It’s a sport that thrives on the extraordinary, where players leap over defenders and race past opponents as though physics were just a suggestion. Larry Bird was extraordinary in ways that weren’t always obvious. At 6'9", he was taller than most, but his success wasn’t just about size. It was about what he could see—what others couldn’t—and how he used it to dominate a game designed for athletic marvels.
+
+If Larry Bird was extraordinary in any way, it was in how he turned intelligence into an art form. He mastered basketball not by overpowering his opponents but by outsmarting them, seeing the game as a series of decisions to be solved in real time. He played like a grandmaster on a chessboard, always two steps ahead.
+
+# The Game Before the Game
+
+Before Larry Bird stepped onto the court, he had already won half the battle. His preparation wasn’t flashy or loud, but it was relentless. Bird studied every detail—opponent tendencies, defensive schemes, how players moved without the ball. He built a mental playbook, piece by piece, until the game slowed down for him.
+
+There’s a story about Bird once walking into the Celtics locker room before a game and declaring he was going to score 40 points—left-handed. And then he did it. That wasn’t arrogance; it was calculated confidence. Bird knew his opponent so well he could afford to handicap himself, just for the challenge.
+
+It wasn’t just raw talent. It was an obsession with understanding the game at a level few dared to. Preparation wasn’t just a task—it was his competitive edge.
+
+*(Placeholder for analysis: Did Bird’s performance statistically improve against tougher opponents? How did his preparation manifest in metrics like assist-to-turnover ratio or shooting efficiency in critical games?)*
+
+# The Art of Seeing the Floor
+
+Larry Bird didn’t just see the game. He read it. Basketball has a natural flow—a rhythm that many players follow. Bird broke it. He anticipated plays before they unfolded, finding openings others couldn’t. His court vision turned routine possessions into works of art.
+
+Once, he threw a pass between two defenders so perfectly timed that it looked like sleight of hand. Teammates said it wasn’t uncommon for Bird to shout instructions mid-play, pointing out what would happen before it did. He wasn’t reacting to the game—he was creating it.
+
+Basketball is fast, but Bird’s mind was faster. When others saw chaos, he saw patterns.
+
+*(Placeholder for analysis: Use passing metrics—assist percentages, points created, or hockey assists—to show how Bird’s IQ translated into statistical dominance. Highlight specific plays or games where this vision was on full display.)*
+
+# The Weight of the Moment
+
+Pressure reveals character. In sports, it reveals decision-making. Larry Bird was at his best when the stakes were highest. Where others froze, he thrived, delivering game-winning shots or critical assists in the moments that mattered most.
+
+Take Game 7 of the 1984 NBA Finals. The Celtics needed him. Bird delivered, hitting clutch shot after clutch shot and pulling down rebounds that shifted the game’s momentum. He wasn’t just executing plays—he was willing his team to victory.
+
+Bird’s mental toughness wasn’t about bravado. It was about belief. He trusted his preparation, his instincts, and his ability to rise to the occasion.
+
+*(Placeholder for analysis: Break down Bird’s clutch-time stats. Field goal percentages in the final five minutes of close games? Playoff performances under elimination pressure? Highlight those high-stakes moments where Bird turned mental toughness into an art form.)*
+
+# When Thinking Beats Talent
+
+Larry Bird teaches us something profound about strategy: You don’t have to dominate in every category to win. Bird wasn’t the fastest player on the court, and he didn’t need to be. His height was an advantage, but he made his real impact with his mind—his ability to think faster and prepare better than anyone else.
+
+That’s the thing about life. We’re all playing games where the odds don’t seem to favor us. Maybe we lack the resources, the connections, or the raw talent others have. But like Bird, we can win by outthinking the competition, by doubling down on preparation, and by staying calm when others crack under pressure.
+
+Basketball is often seen as a game of moments—the buzzer-beater, the dunk, the block. Bird’s career reminds us that those moments are won long before they happen. They’re won in the hours of preparation, in the hundreds of invisible decisions, and in the ability to stay sharp when the pressure builds.
+
+Larry Bird didn’t outplay his opponents. He outthought them. And that’s a skill that transcends sports.
+
+*(Placeholder for broader lessons: Tie Bird’s strategic thinking to broader life lessons. How does preparation create clarity? How can focusing on your strengths mitigate your weaknesses? Use anecdotes and parallels to make the story resonate beyond sports.)*
+
+# The Numbers Behind the Genius
+
+Larry Bird’s greatness wasn’t just a feeling—it was a measurable reality.
+
+Passing Metrics:
+
+-   Bird’s ability to create plays as a forward wasn’t just revolutionary—it was efficient.
+
+*(Placeholder for data: Use assist-to-turnover ratios and advanced passing metrics to demonstrate Bird’s playmaking compared to peers in his position.)*
+
+-   Scoring Versatility:
+
+Bird’s ability to score from anywhere on the court made him a nightmare for defenders.
+
+*(Placeholder for data: Analyze shot charts to highlight Bird’s efficiency from mid-range, three-point territory, and in the post.)*
+
+-   Clutch Performance:
+
+Bird’s decision-making under pressure didn’t just win games—it defined his legacy.
+
+*(Placeholder for data: Break down his shooting percentages and decision-making stats in high-pressure situations, especially during playoff runs.)*
+
+Larry Bird was proof that greatness doesn’t have to be loud or flashy. Sometimes, it looks like calm precision—a mind that moves faster than the game, a player who saw basketball not just for what it was but for what it could be. That’s how Larry Bird dominated a game designed for giants—not just by being tall, but by seeing further
+
+------------------------------------------------------------------------
+
+# Sources:
+
+To Be Included...

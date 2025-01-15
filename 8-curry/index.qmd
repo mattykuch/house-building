@@ -1,0 +1,140 @@
+---
+title: <span style="color:white">The Gravity of Greatness</span>
+subtitle: "How Steph Curry redefined basketball, leadership, and the power of movement"
+
+author: 
+- name: "King Matayo"
+  email: kingmatayo.thefirst@gmail.com
+date: 12/17/2024
+
+title-block-banner: ./assets/curry.jpg
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+```{r warning=FALSE, message=FALSE}
+
+# Load required libraries
+library(tidyverse)
+library(BasketballAnalyzeR)
+library(nbastatR)
+library(ggimage)
+library(cropcircles)
+library(ggtext)
+library(glue)
+library(janitor)
+library(htmltools)
+library(gganimate)
+library(viridis)
+
+
+# Source functions
+source(file="./R/00-functions.R")
+
+
+```
+
+# Be Different
+
+The story of Steph Curry isn’t about basketball.
+
+It’s about innovation, leadership, and what happens when someone sees the game differently than everyone else. Curry didn’t just make three-pointers; he forced the world to rewrite its playbook. He didn’t just move without the ball; he changed what “teamwork” meant.
+
+Here’s what makes this story worth telling: Curry’s impact is so immense that even people who hate basketball know his name.
+
+His story is what happens when skill meets confidence and confidence becomes contagious.
+
+# The Risk That Changed Everything
+
+Rewind to the early 2000s, when every coach in basketball preached the same sermon: Take smart shots. Don’t shoot from 30 feet. Don’t shoot off-balance. These rules weren’t just strategy—they were gospel. The three-point line existed, but teams treated it like a suggestion, not an opportunity.
+
+Enter Steph Curry.
+
+In college, Curry looked too small to dominate. In the NBA, he looked too frail to survive. But Steph wasn’t interested in surviving—he was interested in playing differently.
+
+Basketball purists watched Curry launch shots from absurd distances and winced. Coaches on opposing benches shook their heads. It looked reckless.
+
+But what looked like risk to everyone else was, to Curry, an edge.
+
+*Placeholder for Analysis: Compare league-average three-point attempts and Curry’s shot chart, showing his confidence to shoot where no one else dared.*
+
+The risk wasn’t just in taking those shots. It was in believing he could make them.
+
+# The Power of Movement
+
+Curry’s shooting changed basketball. But it was his movement that changed teams.
+
+Here’s the thing: Great players dominate the ball. They call for it, hold it, and make everything orbit around them. That’s how the game works. Or so we thought.
+
+Steph does the opposite. He moves. And keeps moving. And never stops moving.
+
+Imagine guarding him. You fight through one screen. Then another. Then another. He doesn’t get tired—you do. Curry doesn’t just wear out defenses; he rearranges them.
+
+There’s a term in physics called gravitational pull. The bigger the object, the more it pulls everything else toward it. Steph Curry on the court is a gravitational force. Defenders stick to him even when he doesn’t have the ball. Entire teams shift to account for his orbit.
+
+That kind of movement—constant, purposeful—does something to teammates, too. When Curry runs off screens, he creates space. Space for cutters. Space for shooters. Space for someone else to shine.
+
+That’s leadership. Not by demanding attention, but by creating opportunity.
+
+*Placeholder for Analysis: Use player tracking data and heat maps to highlight Curry’s movement, showing the ripple effects on spacing and team success.*
+
+# Confidence That Infects
+
+There’s a reason Steph Curry makes his teammates better. It’s not just his shooting, or his movement—it’s his confidence.
+
+Confidence is one of those things that multiplies. When a leader plays like he believes in something, everyone else starts to believe, too. Curry doesn’t take shots he knows he’ll make; he takes shots he thinks he can make.
+
+There’s a moment during a Warriors game that sums it up perfectly. Curry pulls up from 35 feet and fires. Before the ball even hits the rim, he’s turned around, already celebrating.
+
+It’s a small thing. But it tells his teammates: Trust yourself. It tells the defense: You can’t stop this.
+
+And when Curry celebrates a teammate’s three-pointer as loudly as his own, it tells the entire team: This isn’t about me. It’s about us.
+
+*Placeholder for Analysis: Compare team performance metrics—offensive ratings, teammate shooting percentages—when Curry is on and off the floor.*
+
+That’s the thing about leadership: The best leaders don’t just succeed. They give others the confidence to succeed, too.
+
+# Innovation is a Choice
+
+When historians look back at this era of basketball, they won’t just say Steph Curry changed the game. They’ll say he changed the way people thought about the game.
+
+There’s a broader lesson here.
+
+Most of us are taught to play by the rules. We take the “smart shots,” follow the established plays, and avoid risks that could embarrass us. But every now and then, someone comes along who sees the rules differently—who decides they’re not fixed, just waiting to be redefined.
+
+Steph Curry took a game built around height and strength and turned it into a game about space and precision. He showed that small changes—shooting from a little farther, moving a little more—can create massive shifts.
+
+What looked like luck to others was, in reality, deliberate innovation.
+
+# Pulling Everyone Into Your Orbit
+
+Curry’s story isn’t about basketball. It’s about confidence, leadership, and the courage to see opportunities where others see risks.
+
+He reminds us that leadership isn’t about being the loudest voice in the room; it’s about movement—creating space for others to succeed.
+
+He reminds us that confidence isn’t just personal—it’s contagious.
+
+And he reminds us that greatness isn’t always about fitting into the system; sometimes, it’s about having the courage to rewrite it.
+
+*Placeholder for Final Insights: Use visualizations to show Curry’s long-term impact on league-wide trends—three-point attempts, spacing, and player roles.*
+
+In the end, Steph Curry’s greatest skill isn’t shooting or dribbling. It’s the ability to pull everyone—teammates, defenses, even fans—into his orbit.
+
+That’s the gravity of greatness
+
+------------------------------------------------------------------------
+
+# Sources:
+
+To Be Included...

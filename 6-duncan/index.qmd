@@ -1,0 +1,110 @@
+---
+title: <span style="color:white">The Foundation of Greatness</span>
+subtitle: "How quiet leadership built the Spurs’ Empire"
+
+author: 
+- name: "King Matayo"
+  email: kingmatayo.thefirst@gmail.com
+date: 12/16/2024
+
+title-block-banner: ./assets/duncan.jpg
+title-block-banner-color: "black"
+
+format: html
+html:
+code-fold: false
+code-summary: "Code"
+echo: false
+css: style.css
+toc: true
+toc-location: left
+number-sections: false
+editor: visual
+fig-cap-location: margin
+---
+
+```{r warning=FALSE, message=FALSE}
+
+# Load required libraries
+library(tidyverse)
+library(BasketballAnalyzeR)
+library(nbastatR)
+library(ggimage)
+library(cropcircles)
+library(ggtext)
+library(glue)
+library(janitor)
+library(htmltools)
+library(gganimate)
+library(viridis)
+
+
+# Source functions
+source(file="./R/00-functions.R")
+
+
+```
+
+# Let Results Speak
+
+Tim Duncan walked into the gym the same way every day. No entourage. No flashy headphones. No announcement. Just a duffel bag slung over his shoulder and a quiet nod to the staff. If you didn’t know better, you might have mistaken him for a rookie trying to earn a roster spot, not a perennial All-Star and two-time MVP.
+
+This was Duncan’s magic. He didn’t need to tell you he was great. He just showed up, over and over again, and let the results speak for themselves.
+
+# Reliability is a Skill
+
+In a world where peaks and valleys often define careers, Tim Duncan was a flatline of excellence. The kind of reliability that you could set your watch to. Over 19 seasons, he missed the playoffs exactly zero times and rarely failed to deliver in the biggest moments.
+
+During the Spurs’ 2003 championship run, Duncan was unstoppable. He averaged 42 minutes per game in the Finals, carrying the team on both ends of the court. The defining moment came in Game 6 against the Nets. The Spurs were clinging to a slim lead in the fourth quarter when Duncan blocked four shots in a single possession. It wasn’t just defense—it was a declaration: This is my game, my court, my time.
+
+Consistency isn’t glamorous. It’s hard to sell the story of someone who simply does their job every single day without drama or fanfare. But that’s the secret of Duncan’s greatness. He wasn’t chasing highlight reels. He was chasing wins.
+
+*\[Placeholder for Analysis\]: Chart Duncan’s postseason Player Efficiency Rating (PER) over his career, showing how his steady output made him one of the most reliable performers in NBA history. Highlight his consistency compared to peers.*
+
+# Mastering the Basics
+
+Ask anyone what Tim Duncan’s signature move was, and they’ll all give the same answer: the bank shot.
+
+It’s almost comical in its simplicity. A shot that looks like something out of a high school fundamentals clinic. But in Duncan’s hands, it was a weapon of surgical precision. He didn’t invent it, but he perfected it.
+
+Here’s the thing about fundamentals: They aren’t exciting. Nobody talks about them at parties. But when the game is on the line, it’s the players who have mastered the basics who come out on top. Duncan understood that better than anyone.
+
+Gregg Popovich, the Spurs’ legendary coach, once said that Duncan’s brilliance wasn’t in doing extraordinary things but in doing ordinary things extraordinarily well. And that’s what made him unstoppable. While others chased trick shots and viral dunks, Duncan doubled down on the basics: footwork, positioning, and timing.
+
+*\[Placeholder for Analysis\]: Analyze Duncan’s shot charts, focusing on the efficiency of his bank shots compared to league averages. Include metrics like field goal percentage from mid-range*.
+
+# The Unseen Force in Team Dynamics
+
+There’s a saying in basketball that every team takes on the personality of its leader. For the Spurs, that personality was calm, humble, and focused. It was Tim Duncan.
+
+Duncan’s leadership wasn’t loud. He didn’t give fiery speeches or call out teammates in the media. His leadership was quiet but unmistakable. He led by showing up early, staying late, and putting the team first.
+
+Tony Parker, one of Duncan’s longtime teammates, put it simply: “He made everyone feel important.” Whether it was mentoring rookies or deferring to teammates in clutch moments, Duncan prioritized the collective over the individual. And in doing so, he created a culture where everyone thrived.
+
+The result? Five championships. Twenty-two consecutive playoff appearances. A dynasty that outlasted flashier, louder teams.
+
+*\[Placeholder for Analysis\]: Evaluate the Spurs’ Net Rating during Duncan’s tenure, illustrating how his presence elevated team performance. Include on/off-court impact metrics.*
+
+# Humility is Power
+
+There’s a temptation to think that leadership has to be loud to be effective. That you have to be the one making the big speeches or taking the last shot. Tim Duncan disproved that notion.
+
+His humility wasn’t an act. It was a strategy. By keeping the focus off himself, he created space for others to shine. Manu Ginóbili, Kawhi Leonard, and Tony Parker all became stars in their own right, but they all credit Duncan for showing them how to succeed.
+
+Here’s the paradox of Duncan’s humility: It made him more powerful, not less. By putting the team first, he earned the kind of respect that no amount of chest-pounding could achieve.
+
+*\[Placeholder for Analysis\]: Correlate Duncan’s career trajectory with the Spurs’ sustained success, including their record-breaking playoff streak.*
+
+# The Blueprint for Success
+
+Tim Duncan retired with more accolades than most players could dream of: five championships, two MVPs, 15 All-Star appearances. But his true legacy is harder to quantify. It’s the culture he built, the lessons he taught, and the standard he set.
+
+He showed us that leadership isn’t about volume—it’s about substance. It’s not about being the loudest voice in the room; it’s about being the most reliable. And it’s not about chasing individual glory—it’s about lifting others.
+
+The next time you watch the Spurs play, even years after Duncan’s retirement, you’ll see his fingerprints all over the team. Quiet leadership leaves a loud legacy.
+
+------------------------------------------------------------------------
+
+# Sources:
+
+To Be Included...
