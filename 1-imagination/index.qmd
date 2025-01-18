@@ -31,25 +31,7 @@ The challenge with imagination is that sometimes we do not know the limits or bo
 
 In this first chapter, I provide a practical list of things to consider as you begin to nurture that germ of an idea, that is your ideal house.
 
-```{mermaid}
-
-mindmap
-  root((My Dream House))
-    Location
-      Urban
-      Rural
-      Access to Amenities
-    Size
-      Family Needs
-      Play Area
-      Space for Future Expansion
-    Type
-      Bungalow
-      Apartment
-      Cabin
-      Unique Design Preferences
-
-```
+![Imagination Mind Map](assets/Imagination_mindmap_Ch1.jpg)
 
 In order of priority, there are 3 main considerations as you imagine your ideal house:
 
@@ -65,7 +47,7 @@ It is more practical to try and visualize a location first before one imagines t
 
 For instance, depending on whether you plan to build in a rural or urban area will play a big role in how big the available land size you require to place your dream house. In addition, the price of land in these different locations (rural vs urban) is also a key factor in determining how much you will have left to spend on the actual building.
 
-![Rural vs Urban Location](assets/Quadchart_land.png)
+![Rural vs Urban Location](assets/RuralVsUrban_Chart_Ch1.jpg)
 
 I’ve known my friend Vincent for many years – he is an ambitious, but practical man. Over the years, Vincent has built three houses for both residential and commercial use.
 
@@ -89,6 +71,8 @@ After you have a better sense of the location and size of your plot, now is the 
 
 The decision on which type of house largely depends on the individual’s own tastes and budget, which will vary from person to person. Hence as you visualize your own house make sure it is unique to you and I do not recommend you just copy and paste your neighbor’s vision, however tantalizing it may be.
 
+![So many types](assets/So_many_types_Ch1.jpg)
+
 ### Practical Tips – Chapter 1:
 
 1.  Create a notebook (hard or soft copy) to write and store all your thoughts about your dream house detailing the ideal location, size and type you want
@@ -101,6 +85,10 @@ By taking the time to exercise your imagination you’ll get those creative juic
 
 # References/Sources/Citations:
 
--   To be added
+-   Zsviczian, Z., 2025. *Obsidian Excalidraw Plugin*. Available at: <https://github.com/zsviczian/obsidian-excalidraw-plugin> \[Accessed 18 Jan. 2025\]
 
--   ...
+-   Mermaid.js, 2025. *Mermaid.js Documentation*. Available at: https://mermaid-js.github.io/ \[Accessed 18 Jan. 2025\].
+
+-   RStudio, 2025. *RStudio Integrated Development Environment for R*. Posit Software, PBC. Available at: https://posit.co/products/open-source/rstudio/ \[Accessed 18 Jan. 2025\]
+
+-   Quarto, 2025. *Quarto: Open-source Scientific and Technical Publishing*. Available at: <https://quarto.org/> \[Accessed 18 Jan. 2025\]
