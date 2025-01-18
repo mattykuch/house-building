@@ -31,13 +31,33 @@ The challenge with imagination is that sometimes we do not know the limits or bo
 
 In this first chapter, I provide a practical list of things to consider as you begin to nurture that germ of an idea, that is your ideal house.
 
+```{mermaid}
+
+mindmap
+  root((My Dream House))
+    Location
+      Urban
+      Rural
+      Access to Amenities
+    Size
+      Family Needs
+      Play Area
+      Space for Future Expansion
+    Type
+      Bungalow
+      Apartment
+      Cabin
+      Unique Design Preferences
+
+```
+
 In order of priority, there are 3 main considerations as you imagine your ideal house:
 
 1.  Location
 
 2.  Size
 
-3.   Type
+3.  Type
 
 ### Location, Location, Location
 
