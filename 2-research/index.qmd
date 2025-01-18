@@ -1,13 +1,13 @@
 ---
-title: <span style="color:white">The Last Shot</span>
-subtitle: "How Michael Jordan turned pressure, failure, and split-second decisions into a blueprint for greatness"
+title: <span style="color:white">Chapter 2 - Research and Consult</span>
+subtitle: "'If we knew what we were doing it wouldn’t be research.' - Albert Einstein"
 
 author: 
-- name: "King Matayo"
-  email: kingmatayo.thefirst@gmail.com
-date: 12/15/2024
+- name: "Matthew Kuch"
+  email: kuch.matthew@gmail.com
+date: 01/18/2024
 
-title-block-banner: ./assets/jordan.jpg
+title-block-banner: true
 title-block-banner-color: "black"
 
 format: html
@@ -23,96 +23,67 @@ editor: visual
 fig-cap-location: margin
 ---
 
-```{r warning=FALSE, message=FALSE}
+Now imagine this: you've settled on a beautiful plot of land in a peaceful neighborhood. You've even sketched a rough plan for your dream house. But as soon as you meet the builders and local authorities, reality sets in. They tell you about zoning regulations, material shortages, and labor costs you hadn't considered. Yikes!
 
-# Load required libraries
-library(tidyverse)
-library(BasketballAnalyzeR)
-library(nbastatR)
-library(ggimage)
-library(cropcircles)
-library(ggtext)
-library(glue)
-library(janitor)
-library(htmltools)
-library(gganimate)
-library(viridis)
+The vision you held so dear starts to seem further from your grasp. If you don’t navigate this next step of researching and consulting - you risk overspending, delays, and even legal issues.
 
+This is where many people stumble. They dive into building without first arming themselves with the information necessary to make informed decisions.
 
-# Source functions
-source(file="./R/00-functions.R")
+This chapter is about preventing that pitfall by equipping you with tools to research and consult properly before you break ground.
 
+Skipping research and consultation may seem like a way to save time and money, but it often leads to costly mistakes. Imagine spending months envisioning a home design, only to realize later that it violates local building regulations, or worse, the foundation is incompatible with the soil on your plot. These kinds of setbacks can result in costly redesigns or even halting your project altogether.
 
+Without proper research, you're likely to run into problems such as:
 
-```
+-   **Unexpected costs:** Material prices fluctuate depending on location and season.
 
-# Relentless
+-   **Regulatory delays:** Not understanding the local permit process can lead to fines or even demolition.
 
-The defining moments in life don’t announce themselves in advance. They don’t come with a trumpet blast or a prelude. They sneak up on you, disguised as just another Tuesday or another possession in the fourth quarter of a basketball game.
+-   **Wasted time and resources:** Investing in poor quality labour or building methods might force you to redo entire sections of the project.
 
-For Michael Jordan, those moments came often—and he made them look inevitable. But inevitability is an illusion. Behind every buzzer-beater, every jaw-dropping play, and every championship trophy was a relentless competitor who understood something fundamental: greatness is built not in moments of glory, but in the countless decisions that come before them
+### Unexpected costs
 
-# The Competitive Fire
+Materials will make up a significant portion of your building budget. That’s just the reality. Now imagine you’ve bought all the bricks and cement for your house at the start of the rainy season. Due to supply chain issues, the price of these materials has spiked, meaning you’re spending far more than you anticipated.
 
-The story of Michael Jordan is a story about fire. Not the kind that burns brightly and then fizzles out, but the kind that stays lit, consuming everything in its path.
+Contrast this with someone who has done their research and timed their purchases smartly. By talking to local suppliers and checking trends, they wait until the dry season when demand (and prices) are likely lower. As a result, they get a much better deal on the same materials.
 
-In Game 5 of the 1997 NBA Finals, Jordan was visibly sick. Feverish, dehydrated, and barely able to stand during timeouts, he still managed to score 38 points, including a clutch three-pointer that sealed the win. The “flu game” became legend, but its real lesson wasn’t about his physical performance. It was about his mental one.
+Take Vincent for example, who built a house in Wakiso. He saved close to 10% of his total construction costs simply by buying materials in bulk during an off-peak period. He also spoke to experienced contractors who advised him on where to get discounts on timber and iron sheets. Without those consultations, he could have paid premium prices and gone over budget.
 
-Most players might have rested. They might have conserved their energy for the next game. Not Jordan. Sitting out wasn’t even a consideration. His competitive instinct didn’t allow it. That fire was the same reason he pushed his teammates to exhaustion during practice, sometimes crossing the line into cruelty. He wasn’t trying to be liked; he was trying to win
+Thorough research will help you be strategic with your purchases, keeping your project within budget.
 
-# Clutch Decision-making
+### Regulatory delays
 
-Imagine this: the clock is ticking down, the defense is smothering, and millions are watching. Your next decision could win or lose the game. For Jordan, these moments weren’t just tests of skill—they were tests of nerve.
+Imagine you’ve started construction, only to be informed by the local authorities that your building violates zoning laws. This could lead to demolition orders, fines, or project delays—all of which will eat into your budget. The cost of not knowing the local building codes can be devastating.
 
-In the 1998 NBA Finals, Game 6, with the championship on the line, Jordan found himself facing Utah’s Bryon Russell. He didn’t rush. He didn’t panic. He simply read the situation, executed a quick crossover, and drained the jumper. To everyone watching, it felt like destiny. But to Jordan, it was preparation.
+On the flip side, investing time in understanding the building regulations in your area is a low-cost, high-reward move. For example, if you're planning to build in urban areas like Kampala, Mukono or Wakiso, knowing the specific land-use regulations could save you from making costly design changes after construction begins. Consulting local authorities or a qualified architect before starting will provide clarity on the necessary permits and legalities.
 
-Here’s where the numbers would come in.
+By consulting early, you avoid project halts and hefty fines, saving both time and money.
 
-\[Placeholder for analysis: What do the stats say about Jordan in clutch moments? What was his success rate in the final five minutes of close games? How did he perform under the weight of defensive pressure?\]
+### Wasted time and resources
 
-Most players shrink under pressure. They overthink, hesitate, or play it safe. Jordan thrived because he trusted his decisions. He understood that pressure isn’t something you avoid—it’s something you embrace2016-2024: Embracing the new reality.
+Now, let’s say you hire a construction crew without thoroughly vetting them, thinking you’ve scored a cheap deal. You later realize they lack the necessary skills for your project, leading to poorly done work that requires costly repairs or rework.
 
-# Failure as a Catalyst
+Now consider the person who consulted local builders and got recommendations from people who had already built homes. They may pay a bit more upfront for skilled labor, but the long-term savings are immense. Quality labor ensures the job is done right the first time.
 
-“I’ve missed more than 9,000 shots in my career.” Jordan’s famous quote is so well-known that it risks losing its weight. But think about it: nine thousand missed shots. That’s not just failure—that’s public failure. Televised, scrutinized, and immortalized.
+Reach out to friends and family members who’ve recently completed building projects. Ask for honest reviews of the laborers they worked with. Doing this could save you from hiring the wrong people, and ensure your project moves along smoothly.
 
-What made Jordan different wasn’t his avoidance of failure—it was his use of it. Every missed shot became data. Every loss became fuel. He understood a fundamental truth about progress: failure isn’t the opposite of success. It’s a prerequisite.
+Consulting experienced builders reduces the risk of poor workmanship and ensures your house is built to last
 
-\[Placeholder for analysis: How did Jordan’s performance evolve in high-pressure scenarios? Did experience mitigate the impact of tough defensive schemes?\]
+### Make informed decisions
 
-This mindset wasn’t just about basketball. It was about life. Failure, for Jordan, wasn’t a wall—it was a door.
+The solution to these potential pitfalls is straightforward: arm yourself with knowledge. Research and consultation are your insurance policies against costly mistakes. Before making any financial commitments, take time to gather information on everything from building permits and materials to labor and construction methods. Talk to people who have built homes before you. Meet with professionals like architects and contractors who can offer expert advice tailored to your unique project.
 
-# Broader Lessons
+### Practical Tips – Chapter 2:
 
-We like to think decision-making is about logic and reason. But in high-pressure moments, it’s about something else entirely: persistence, preparation, and poise.
+-   Visit the local planning office: Get a full understanding of the permits and regulations in your area. This will save you from unpleasant surprises later.
 
-Jordan’s career teaches us three lessons:
+-   Talk to at least 3 suppliers: Compare the prices or quotations of key materials like cement, timber, iron sheets and labour. This helps you find the best deals.
 
-Persistence matters more than talent. Missing 9,000 shots is irrelevant if you make the one that counts.
+-   Consult with experienced builders (particularly in the area/environment you wish to build): Even a short conversation with someone who has built recently can give you invaluable tips on avoiding common mistakes.
 
-The moment is yours if you take it. Most of us hesitate. Jordan didn’t. He knew that you can’t win if you don’t shoot.
+-   Vet your labor thoroughly: Cheap labor can end up costing you more if the quality is poor. Always check references before hiring.
 
-Pressure doesn’t create champions—it reveals them. What you’ve done in the quiet hours of preparation determines how you’ll perform when the spotlight hits.
-
-These lessons aren’t confined to basketball. They apply to business, relationships, and any decision where the stakes are high. Success isn’t about being perfect. It’s about being ready.
-
-# Data as the Undercurrent
-
-Jordan’s story feels larger than life, but the numbers add depth to the narrative. They reveal patterns and insights that make his greatness feel tangible.
-
-Placeholder for visuals and analysis:
-
-His success rates in clutch moments.
-
-His performance on contested vs. uncontested shots.
-
-How his efficiency held up under defensive pressure in critical playoff games.
-
-The data doesn’t tell the whole story, but it shows how Jordan’s greatness was a blend of skill, preparation, and the courage to seize the moment.
-
-Michael Jordan’s career wasn’t a straight line to greatness. It was a series of choices, risks, and moments where the outcome was anything but certain. The only thing that was certain was Jordan himself—the competitor who never stopped deciding to be great.
-
-The rest? That’s just history
+The time you spend researching and consulting will pay off in the long run, ensuring your project stays within quality specifications, budget and on schedule while meeting all legal and safety requirements
 
 ------------------------------------------------------------------------
 
