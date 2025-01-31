@@ -1,13 +1,13 @@
 ---
-title: <span style="color:white">The Invisible Hand of Greatness</span>
-subtitle: "How Magic Johnson proved that leadership is about what you give, not what you take"
+title: <span style="color:white">Chapter 5 - Loans</span>
+subtitle: "'The rich rule over the poor, and the borrower is slave to the lender' - Proverbs 22, verse 7"
 
 author: 
-- name: "King Matayo"
-  email: kingmatayo.thefirst@gmail.com
-date: 12/16/2024
+- name: "Matthew Kuch"
+  email: kuch.matthew@gmail.com
+date: 01/31/2024
 
-title-block-banner: ./assets/magic.jpg
+title-block-banner: true
 title-block-banner-color: "black"
 
 format: html
@@ -23,87 +23,41 @@ editor: visual
 fig-cap-location: margin
 ---
 
-```{r warning=FALSE, message=FALSE}
+For many of us who were born in the dotcom and microwave era, saving enough money to cover the entire cost of construction seems like a herculean task and takes too long. In such cases, taking out a loan becomes an attractive option to make your dream home a reality sooner. However, loans do come with their own set of challenges and it’s important to understand both the benefits and risks before committing.
 
-# Load required libraries
-library(tidyverse)
-library(BasketballAnalyzeR)
-library(nbastatR)
-library(ggimage)
-library(cropcircles)
-library(ggtext)
-library(glue)
-library(janitor)
-library(htmltools)
-library(gganimate)
-library(viridis)
+The biggest appeal of loans is the ability to start building right away. You don’t have to wait years to save the entire sum needed to complete your home. However, while loans offer quick access to funds, they also introduce the burden of debt. The pressure to meet monthly repayments and the risk of default can weigh heavily on you if not managed carefully.
 
+In Uganda, loans in general come with high-interest rates and the requirements can be stringent. If you’re not careful, you could find yourself struggling to make repayments while still facing rising construction costs.
 
-# Source functions
-source(file="./R/00-functions.R")
+## Instant access to funds vs. financial pressure
 
+The primary advantage of taking out a loan is that it gives you immediate access to the money you need to build. Instead of waiting years to save up, you can begin construction as soon as the loan is approved which allows you to move into your new home faster.
 
-```
+We are all familiar with the story of the colleague at work who took out a loan to build his family house. He didn’t have to wait for years to save enough money and was able to move into his home in just 18 months. For him, the loan provided a much-needed solution to escape the rising cost of rent which he had been paying for years.
 
-# The Magical Rookie
+On the flip side, loans come with monthly repayments that can be a heavy burden. In Uganda, interest rates on construction loans can be as high as 18-25% per year for UGX currency loans. This means you will end up paying significantly more than the amount you initially borrowed. For many, these high repayments can become overwhelming especially if they face unexpected financial challenges.
 
-In the spring of 1980, a 20-year-old rookie stepped onto the court for Game 6 of the NBA Finals. The Los Angeles Lakers’ towering star, Kareem Abdul-Jabbar, was injured, and everyone assumed that without him, the team’s championship hopes were gone. The rookie—listed at 6’9” and known for playing point guard—was asked to play center.
+To share a concrete example, a friend of Uncle Mo once borrowed UGX 200 million to build his house. Due to rising interest rates and a longer-than-expected construction period, he found himself paying close to UGX 300 million by the time the house was finished. While he achieved his goal of building a home, the financial strain was much greater than he initially anticipated.
 
-What happened next is the stuff of legend.
+## Borrow with a plan and repay with discipline
 
-Magic Johnson didn’t just fill in; he flourished. He scored 42 points, grabbed 15 rebounds, and dished out 7 assists. The Lakers won the championship that night, but it wasn’t Magic’s stats that stood out. It was something harder to quantify: the calm confidence he inspired in his teammates. The belief that, together, they could handle anything.
+If you decide to finance your house through a loan, careful planning is essential. Before taking out a loan, make sure you have a clear understanding of how much you need to borrow and how much you can afford to repay each month without putting too much pressure on yourself. It's also crucial to compare different loan options to find the best interest rates and terms.
 
-This wasn’t a one-off performance. It was a window into Magic’s entire approach to basketball—and life. Leadership, he showed us, isn’t about being the loudest or most dominant. It’s about creating space for others to thrive. It’s about knowing when to shine and when to let someone else take the shot.
+Think about what would happen if your income were reduced or if construction costs increased. Having a plan for these scenarios can help you avoid defaulting on your loan. Remember that taking out a loan is a long-term commitment, and the sooner you repay it, the less interest you’ll pay in the end.
 
-# The Smile That Changed a Team
+Lastly, discipline is key. Stick to your repayment schedule and if possible, make additional payments whenever you have extra funds. The quicker you pay off the loan, the less financial pressure you'll face and the sooner you can enjoy living in your debt-free home.
 
-Leadership doesn’t always come from authority. Sometimes it comes from a smile.
+## Practical Tips – Chapter 5
 
-Magic Johnson’s smile wasn’t just a trademark—it was a strategy. He played with a joy that was contagious, a confidence that spread like wildfire. A teammate misses a shot? Magic is the first to slap them on the back and tell them to shake it off. The team is down by 10? Magic is the one rallying the huddle, convincing everyone that they’re one good run away from taking control.
+-   **Borrow only what you need:** It’s tempting to borrow more than necessary, but this will only increase the amount of interest you pay in the long run. Only borrow the minimum amount needed to complete your house. For instance, if the monthly loan repayment is more than 50% of your monthly income, its best to avoid it.
 
-In 1980, the Lakers were a talented but inconsistent team. Kareem was their anchor, but the spark of optimism and cohesion came from their rookie point guard. Magic’s charisma wasn’t a distraction; it was a glue that held the team together when things got tough.
+-   **Compare loan options:** Not all loans are created equal. Shop around and compare different banks, SACCOs, or microfinance institutions to find the best interest rates and repayment terms.
 
-He led with positivity, not power, and his teammates fed off that energy. Years later, players who shared the court with him wouldn’t just talk about his skill—they’d talk about how much fun he made the game.
+-   **Have a backup plan:** Ensure you have a financial cushion or backup income source in case your circumstances change, making it harder to repay your loan.
 
-# Making the Team Shine
+-   **Repay early, if possible:** If you receive any extra income, consider using it to make additional loan payments. This will reduce the overall interest and help you clear the debt faster.
 
-Great leaders are multipliers. They take what’s already good and make it extraordinary.
-
-Magic Johnson’s genius wasn’t just his talent. It was his ability to amplify the talent around him. He wasn’t just looking for the open man—he was creating opportunities that no one else could see.
-
-Take his partnership with Kareem Abdul-Jabbar. Kareem was already one of the greatest centers in history. But with Magic on the floor, feeding him perfect passes at just the right time, Kareem became unstoppable. Magic wasn’t trying to overshadow Kareem; he was trying to make him even greater.
-
-But it wasn’t just about stars. Role players flourished under Magic’s leadership. Michael Cooper, James Worthy, and even players further down the roster found themselves part of plays that made them look like superstars.
-
-Magic understood a simple truth: success is more satisfying when everyone gets a piece of it.
-
-*Analysis Placeholder: A breakdown of Magic’s assist-to-turnover ratio shows just how effectively he created opportunities while minimizing risks for his team.*
-
-# When the Moment Called, He Delivered
-
-Pressure doesn’t build character; it reveals it.
-
-In that iconic 1980 Finals game, Magic didn’t have the luxury of sticking to what he knew best. His team needed him to play a position he wasn’t trained for, against players bigger and stronger than him.
-
-Instead of resisting, he embraced the challenge. Magic didn’t just perform well—he turned in one of the greatest performances in NBA history. But here’s the thing: he didn’t win that game by trying to be someone he wasn’t. Even playing as a center, he remained the same selfless player who prioritized his team over himself.
-
-*Analysis Placeholder: A comparison of Magic’s performance as a guard versus that iconic game as a center highlights his versatility and team-first mindset.*
-
-# The Invisible Hand of Leadership
-
-Magic Johnson wasn’t perfect. He made mistakes, turned the ball over, and had off nights like anyone else. But his leadership endured because it wasn’t about being perfect—it was about being consistent.
-
-The Lakers weren’t just better when Magic was on the floor. They were more cohesive, more confident, and more resilient.
-
-The numbers back this up:
-
-*Analysis Placeholder: The Lakers’ offensive efficiency soared with Magic in the lineup, underscoring his impact as a leader and playmaker.*
-
-But Magic’s real legacy isn’t just in stats or trophies. It’s in the trust he built, the confidence he inspired, and the joy he brought to the game. His career is a masterclass in servant leadership—a lesson that the greatest thing you can achieve is helping others achieve.
-
-Leadership isn’t about demanding loyalty. It’s about earning it. It’s not about taking the most shots; it’s about creating the best ones.
-
-Magic Johnson didn’t just play basketball. He played for his team. And in doing so, he taught us that greatness isn’t about being the best—it’s about making everyone else better.
+Taking out a loan can help you build your home much sooner, but it requires careful planning and financial discipline. By understanding the risks and benefits, and borrowing wisely, you can avoid the common pitfalls of loan financing and turn your house-building dream into reality
 
 ------------------------------------------------------------------------
 
