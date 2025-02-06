@@ -5,7 +5,7 @@ subtitle: "'Family is not an important thing, it's everything. - Michael J. Fox'
 author: 
 - name: "Matthew Kuch"
   email: kuch.matthew@gmail.com
-date: o2/06/2024
+date: 02/06/2024
 
 title-block-banner: true
 title-block-banner-color: "black"
