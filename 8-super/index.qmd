@@ -1,13 +1,13 @@
 ---
-title: <span style="color:white">The Gravity of Greatness</span>
-subtitle: "How Steph Curry redefined basketball, leadership, and the power of movement"
+title: <span style="color:white">Chapter 8 - Super-structure</span>
+subtitle: "'You cannot build a super-structure on a cracked foundation' - Bill Graham"
 
 author: 
-- name: "King Matayo"
-  email: kingmatayo.thefirst@gmail.com
-date: 12/17/2024
+- name: "Matthew Kuch"
+  email: kuch.matthew@gmail.com
+date: 02/13/2025
 
-title-block-banner: ./assets/curry.jpg
+title-block-banner: true
 title-block-banner-color: "black"
 
 format: html
@@ -23,115 +23,51 @@ editor: visual
 fig-cap-location: margin
 ---
 
-```{r warning=FALSE, message=FALSE}
+After the foundation is firmly in place, it's time to build what most people see and recognize as a house—the super-structure. This phase of the construction process involves everything above the ground level, including walls, columns, beams and the roof. The super-structure gives your house its shape and strength ensuring it can stand up to the elements and the test of time.
 
-# Load required libraries
-library(tidyverse)
-library(BasketballAnalyzeR)
-library(nbastatR)
-library(ggimage)
-library(cropcircles)
-library(ggtext)
-library(glue)
-library(janitor)
-library(htmltools)
-library(gganimate)
-library(viridis)
+Many people are tempted to rush through this phase eager to see their house take shape. They might hire less experienced workers or choose cheaper materials to speed up the process or cut costs. However, mistakes made here can have long-lasting consequences. Poorly built walls can crack or buckle and a weak roof can leak or even collapse during heavy rains or winds.
 
+The challenge with building the super-structure is balancing cost and quality. It is easy to get carried away trying to save money or time but any shortcuts taken at this stage can lead to costly repairs later. The key is to understand where it is safe to cut costs and where you should absolutely not compromise on quality.
 
-# Source functions
-source(file="./R/00-functions.R")
+## Striking a Balance
 
+The super-structure is what gives your house its durability. Strong walls, sturdy columns and a well- constructed roof ensure your house will last for many years. Investing in quality materials and skilled labor at this stage might increase costs upfront but it guarantees the long-term safety and comfort of your home.
 
-```
+My Aunt Barbara built her first house in the 1990s but made sure to use a skilled mason and high-quality blocks for her walls, even though it cost more than locally made bricks. Decades later, her house is still in excellent condition, with no cracks or structural problems.
 
-# Be Different
+Also, when it comes to the super-structure, materials and labor are the largest cost drivers. In Uganda, you have options for the type of materials you can use for your walls—bricks, concrete blocks or even steel for certain structural elements. Each material has its own cost implications and benefits.
 
-The story of Steph Curry isn’t about basketball.
+The roof for instance is one of the most expensive parts of the super-structure. The type of roof you choose—whether it's a simple iron-sheet roof or more complex designs like tiled roofs—will significantly impact your budget. However, a poorly constructed roof can lead to serious problems, including leaks and structural failure.
 
-It’s about innovation, leadership, and what happens when someone sees the game differently than everyone else. Curry didn’t just make three-pointers; he forced the world to rewrite its playbook. He didn’t just move without the ball; he changed what “teamwork” meant.
+## The design is up to you
 
-Here’s what makes this story worth telling: Curry’s impact is so immense that even people who hate basketball know his name.
+Building the super-structure also offers an opportunity to customize the design of your home. At this stage, you can make decisions about the layout of rooms, the height of the ceilings and the number of windows. These details make the house unique to your tastes and needs.
 
-His story is what happens when skill meets confidence and confidence becomes contagious.
+A friend of mine decided to go for larger windows to allow more natural light and improve ventilation. Though it slightly increased his construction costs, he now enjoys a bright and airy home, saving on electricity during the day.
 
-# The Risk That Changed Everything
+## Build with care and quality
 
-Rewind to the early 2000s, when every coach in basketball preached the same sermon: Take smart shots. Don’t shoot from 30 feet. Don’t shoot off-balance. These rules weren’t just strategy—they were gospel. The three-point line existed, but teams treated it like a suggestion, not an opportunity.
+Like we’ve discussed, the super-structure phase is crucial because this is where the shape and structure of your home truly come to life. Below is a step-by-step guide to ensure you get this phase right:
 
-Enter Steph Curry.
+1.  **Walls and columns:** The first step in the super-structure phase is constructing the walls and columns. Depending on your design, you may use bricks, concrete blocks, or other materials. The key here is to ensure the walls are properly aligned and that the columns are strong enough to support the weight of the roof.
+2.  **Lintels and beams:** After the walls are up, lintels (horizontal supports above windows and doors) and beams are added to ensure structural integrity. These elements distribute the weight of the roof and upper floors (if any) evenly across the walls.
+3.  **Roofing framework:** Once the walls and beams are in place, the next step is the roof framework. This involves installing trusses (usually made of steel or timber) which form the skeleton of your roof. The type of roof you choose will determine the complexity and cost of this step.
+4.  **Roofing:** After the framework is complete, the roofing material is laid. This can be anything from iron sheets to tiles depending on your budget and design preferences. Make sure to choose a material that suits your areas climate—iron sheets are popular in Uganda but tiles may offer better insulation in hotter regions.
+5.  **Windows and doors:** With the roof in place, it’s time to install windows and doors. This is another opportunity to personalize your home, choosing designs that suit your style and practical needs. You may opt for simple wooden frames or more modern metallic frames depending on your budget.
 
-In college, Curry looked too small to dominate. In the NBA, he looked too frail to survive. But Steph wasn’t interested in surviving—he was interested in playing differently.
+By following these steps such as investing in quality materials and skilled labor, you can ensure that your super- structure is strong, durable and tailored to your needs. While it might be tempting to cut costs especially on the roof, remember that the super-structure is what holds everything together. A house built with care during this phase will provide you with security and peace of mind for years to come.
 
-Basketball purists watched Curry launch shots from absurd distances and winced. Coaches on opposing benches shook their heads. It looked reckless.
+## Practical Tips – Chapter 8
 
-But what looked like risk to everyone else was, to Curry, an edge.
+-   **Skilled labor matters:** Hiring experienced masons and carpenters for the super-structure will save you money in the long run by ensuring the job is done right the first time.
 
-*Placeholder for Analysis: Compare league-average three-point attempts and Curry’s shot chart, showing his confidence to shoot where no one else dared.*
+-   **Choose materials wisely:** Depending on your budget, location, and climate, you may need to choose between bricks, blocks, or other materials. Remember that quality materials last longer and require less maintenance.
 
-The risk wasn’t just in taking those shots. It was in believing he could make them.
+-   **Consider future expansion:** If you plan to add more floors to your house in the future, make sure your super-structure can support the additional weight. Consult with an engineer to ensure the building is designed for potential expansion.
 
-# The Power of Movement
+-   **Plan for ventilation and light:** During this phase, you can make important decisions about windows and doors. Larger windows may increase costs but can save you on electricity in the long term by allowing natural light and ventilation.
 
-Curry’s shooting changed basketball. But it was his movement that changed teams.
-
-Here’s the thing: Great players dominate the ball. They call for it, hold it, and make everything orbit around them. That’s how the game works. Or so we thought.
-
-Steph does the opposite. He moves. And keeps moving. And never stops moving.
-
-Imagine guarding him. You fight through one screen. Then another. Then another. He doesn’t get tired—you do. Curry doesn’t just wear out defenses; he rearranges them.
-
-There’s a term in physics called gravitational pull. The bigger the object, the more it pulls everything else toward it. Steph Curry on the court is a gravitational force. Defenders stick to him even when he doesn’t have the ball. Entire teams shift to account for his orbit.
-
-That kind of movement—constant, purposeful—does something to teammates, too. When Curry runs off screens, he creates space. Space for cutters. Space for shooters. Space for someone else to shine.
-
-That’s leadership. Not by demanding attention, but by creating opportunity.
-
-*Placeholder for Analysis: Use player tracking data and heat maps to highlight Curry’s movement, showing the ripple effects on spacing and team success.*
-
-# Confidence That Infects
-
-There’s a reason Steph Curry makes his teammates better. It’s not just his shooting, or his movement—it’s his confidence.
-
-Confidence is one of those things that multiplies. When a leader plays like he believes in something, everyone else starts to believe, too. Curry doesn’t take shots he knows he’ll make; he takes shots he thinks he can make.
-
-There’s a moment during a Warriors game that sums it up perfectly. Curry pulls up from 35 feet and fires. Before the ball even hits the rim, he’s turned around, already celebrating.
-
-It’s a small thing. But it tells his teammates: Trust yourself. It tells the defense: You can’t stop this.
-
-And when Curry celebrates a teammate’s three-pointer as loudly as his own, it tells the entire team: This isn’t about me. It’s about us.
-
-*Placeholder for Analysis: Compare team performance metrics—offensive ratings, teammate shooting percentages—when Curry is on and off the floor.*
-
-That’s the thing about leadership: The best leaders don’t just succeed. They give others the confidence to succeed, too.
-
-# Innovation is a Choice
-
-When historians look back at this era of basketball, they won’t just say Steph Curry changed the game. They’ll say he changed the way people thought about the game.
-
-There’s a broader lesson here.
-
-Most of us are taught to play by the rules. We take the “smart shots,” follow the established plays, and avoid risks that could embarrass us. But every now and then, someone comes along who sees the rules differently—who decides they’re not fixed, just waiting to be redefined.
-
-Steph Curry took a game built around height and strength and turned it into a game about space and precision. He showed that small changes—shooting from a little farther, moving a little more—can create massive shifts.
-
-What looked like luck to others was, in reality, deliberate innovation.
-
-# Pulling Everyone Into Your Orbit
-
-Curry’s story isn’t about basketball. It’s about confidence, leadership, and the courage to see opportunities where others see risks.
-
-He reminds us that leadership isn’t about being the loudest voice in the room; it’s about movement—creating space for others to succeed.
-
-He reminds us that confidence isn’t just personal—it’s contagious.
-
-And he reminds us that greatness isn’t always about fitting into the system; sometimes, it’s about having the courage to rewrite it.
-
-*Placeholder for Final Insights: Use visualizations to show Curry’s long-term impact on league-wide trends—three-point attempts, spacing, and player roles.*
-
-In the end, Steph Curry’s greatest skill isn’t shooting or dribbling. It’s the ability to pull everyone—teammates, defenses, even fans—into his orbit.
-
-That’s the gravity of greatness
+The super-structure is where your house takes its true form. By focusing on quality and following the proper steps, you ensure that your home remains strong, beautiful, and safe for your family for years to come
 
 ------------------------------------------------------------------------
 
